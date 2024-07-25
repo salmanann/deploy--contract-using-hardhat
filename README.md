@@ -15,11 +15,11 @@ EVM :
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/hardhat-deploy-contract.git
+git clone https://github.com/salmanann/deploy-contract-using-hardhat.git
 ```
 
 ```
-cd hardhat-deploy-contract
+cd deploy-contract-using-hardhat
 ```
 
 ### 2. Install Dependency
@@ -107,9 +107,3 @@ npm run set-message
 - Copy the address and paste the address in testnet dashboard
 - push this project to your github and paste your repository link in testnet dashboard
 
-by :
-github : [Mnuralim](https://github.com/Mnuralim)
-twitter : @Izzycracker04
-telegram : @fitriay19
-
-//0xf1f0C7Bf19ee4E196C0213cEE1002e9a5fadff62//
